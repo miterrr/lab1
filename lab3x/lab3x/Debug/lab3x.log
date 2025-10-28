@@ -1,0 +1,3 @@
+﻿  lab3x.cpp
+C:\Users\SuperStudent-PL\Desktop\Pk3\lab3x\lab3x\lab3x.cpp(66,16): error C2734: „x”: obiekt const musi zostać zainicjowany, jeśli nie jest obiektem extern
+C:\Users\SuperStudent-PL\Desktop\Pk3\lab3x\lab3x\lab3x.cpp(66,19): error C2734: „y”: obiekt const musi zostać zainicjowany, jeśli nie jest obiektem extern
